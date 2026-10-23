@@ -17,7 +17,7 @@ I'm a software developer and IT professional with experience supporting and enha
 - 🛠️ Working across clinical workflows, backend services, reporting, integrations, and database systems.
 - 🌱 Exploring scalable digital-health and education platforms.
 - 🤝 Open to software engineering and research collaborations.
-- 📄 **[View my CV](./assets/Maxwell_Ahiakpor_CV.pdf)** *(upload the PDF to this path to activate the link)*.
+- 📄 **[View my CV](Maxwell_Ahiakpor_Updated_CV_2026_v2.pdf)** 
 
 ## 🧰 Technical Skills
 
