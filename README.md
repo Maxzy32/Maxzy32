@@ -88,8 +88,7 @@ Handled customer inquiries, product guidance, sales support, customer relationsh
 Human-centered AI for healthcare information systems · Digital health · Human-computer interaction · Clinical decision support · Accessible technology · Healthcare interoperability
 
 ## 📈 GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxzy32&show_icons=true&hide_border=true)
+![GitHub Stats 2026](https://github-readme-stats.vercel.app/api?username=Maxzy32&show_icons=true&hide_border=true&commits_year=2026)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxzy32&layout=compact&hide_border=true)
 
